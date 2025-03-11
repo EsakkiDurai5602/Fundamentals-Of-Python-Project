@@ -1,4 +1,4 @@
-undamentals of Python Project Submission
+Fundamentals of Python Project Submission
 This repository contains my submission for the Fundamentals of Python project. The project consists of 15 coding exercises that demonstrate my understanding of basic Python concepts, including data types, control structures, functions, lists, dictionaries, and more.
 
 Repository Contents
